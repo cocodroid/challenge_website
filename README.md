@@ -1,4 +1,10 @@
 
+**微信小程序：超有趣的数学**
+
+题型：算式（加减乘除）、24点、考眼力、找规律。
+
+<img width="344" height="344" alt="超有趣的数学" src="https://github.com/user-attachments/assets/93df0e65-8ce0-4717-8991-a62614e1ae7a" />
+
 **首页**
 
 <img width="811" height="505" alt="image" src="https://github.com/user-attachments/assets/f6a8d80e-1ba7-488e-9c4e-0717963bcf61" />
@@ -14,5 +20,3 @@
 
 #### 如果你家里有小朋友，可以让其上来玩一玩，全程免费！让我们来挑战下呗 ^_^
 
-**网站地址：**
-https://math.verysu.com/
